@@ -3,3 +3,7 @@
 ## A simple WIP project
 
 This will be turned into my portfolio, over time.
+
+### TODO
+
+![IMGsWipExample](IMGs/ProjectsWIP.png)
