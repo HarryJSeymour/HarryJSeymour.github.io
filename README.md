@@ -5,8 +5,4 @@
   
 ## A simple WIP project
 
-This will be turned into my portfolio, over time.
-
-### TODO
-
-![IMGsWipExample](IMGs/ProjectsWIP.png)
+Currently a simplistic splash screen which overtime will be refineded into a full fledge project/portfolio site.
