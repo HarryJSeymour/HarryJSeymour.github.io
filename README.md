@@ -1,7 +1,7 @@
 # Website
-
-* URL: https://harryjseymour.com/  
-  Update **CNAME IF USERNAME CHANGES**
+  Current URL: https://HarryJSeymour.github.io
+<!-- * URL: https://harryjseymour.com/   -->
+  <!-- Update **CNAME IF USERNAME CHANGES** -->
   
 ## A simple WIP project
 
